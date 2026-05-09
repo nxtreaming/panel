@@ -72,7 +72,7 @@ Detailed payload schema for each scope is available in the OpenAPI documentation
 ## Scope: user
 
 OpenAPI Model: `RemnawaveWebhookUserEventsDto`  
-Model Link: https://docs.rw/api/#model/remnawavewebhookusereventsdto
+Model Link: https://docs.rw/api/#model/RemnawaveWebhookUserEventsDto
 
 Available events (`event` property):
 
@@ -105,7 +105,7 @@ import { TRemnawaveWebhookUserEvent, RemnawaveWebhookUserEvents } from '@remnawa
 ## Scope: user_hwid_devices
 
 OpenAPI Model: `RemnawaveWebhookUserHwidDevicesEventsDto​`  
-Model Link: https://docs.rw/api/#model/remnawavewebhookuserhwiddeviceseventsdto
+Model Link: https://docs.rw/api/#model/RemnawaveWebhookUserHwidDevicesEventsDto​
 
 Available events (`event` property):
 
@@ -127,7 +127,7 @@ import {
 ## Scope: node
 
 OpenAPI Model: `RemnawaveWebhookServiceEventsDto​`  
-Model Link: https://docs.rw/api/#model/remnawavewebhookenodeeventsdto
+Model Link: https://docs.rw/api/#model/RemnawaveWebhookServiceEventsDto​
 
 Available events (`event` property):
 
@@ -152,7 +152,7 @@ import { TRemnawaveWebhookNodeEvent, RemnawaveWebhookNodeEvents } from '@remnawa
 ## Scope: service
 
 OpenAPI Model: `RemnawaveWebhookServiceEventsDto`  
-Model Link: https://docs.rw/api/#model/remnawavewebhookserviceeventsdto
+Model Link: https://docs.rw/api/#model/RemnawaveWebhookServiceEventsDto
 
 Available events (`event` property):
 
@@ -176,7 +176,7 @@ import {
 ## Scope: crm
 
 OpenAPI Model: `RemnawaveWebhookCrmEventsDto`  
-Model Link: https://docs.rw/api/#model/remnawavewebhookcrmeventsdto
+Model Link: https://docs.rw/api/#model/RemnawaveWebhookCrmEventsDto
 
 Available events (`event` property):
 
@@ -202,7 +202,7 @@ import { TRemnawaveWebhookCrmEvent, RemnawaveWebhookCrmEvents } from '@remnawave
 From Remnawave Panel v2.7.0 and higher.
 
 OpenAPI Model: `RemnawaveWebhookTorrentBlockerEventsDto`
-Model Link: https://docs.rw/api/#model/remnawavewebhooktorrentblockereventsdto
+Model Link: https://docs.rw/api/#model/RemnawaveWebhookTorrentBlockerEventsDto
 
 Available events (`event` property):
 
@@ -223,7 +223,7 @@ import {
 ## Scope: errors
 
 OpenAPI Model: `RemnawaveWebhookErrorsEventsDto`
-Model Link: https://docs.rw/api/#model/remnawavewebhookererroreventsdto
+Model Link: https://docs.rw/api/#model/RemnawaveWebhookErrorsEventsDto
 
 Available events (`event` property):
 
